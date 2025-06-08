@@ -1,5 +1,5 @@
 # YBI_Final_Project
-AiML with Data Science Intenrship -  Final Project
+AiML with Data Science Internship -  Final Project
 
 1. Data Loading & Initial Inspection
 Loaded 5 datasets:
